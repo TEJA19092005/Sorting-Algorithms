@@ -20,8 +20,8 @@ To write a program to perform selection sort and insertion sort using python pro
 ## Program:
 i)	#Selection Sort
 ```
-# Developed BY   : SANJAY M
-# Register No    : 212223230187
+# Developed BY   : M THEJESWARAN
+# Register No    : 212223240168
 
 Unsorted=eval(input())
 def selsort(Unsorted):
@@ -40,8 +40,8 @@ print(selsort(Unsorted))
 ```
 ii)	#Insertion Sort
 ```
-# Developed BY   : SANJAY M
-# Register No    : 212223230187
+# Developed BY   : M THEJESWARAN
+# Register No    : 212223240168
 
 
 def Insertionsort(arr):
@@ -53,19 +53,10 @@ def Insertionsort(arr):
   return arr
 arr = eval(input())
 print(Insertionsort(arr))
-
-
-
-
-
-
 ```
 
 ## Output:
-![Screenshot 2024-04-02 175239](https://github.com/sanjayofficial2005/Sorting-Algorithms/assets/148048602/80f188e7-042c-428f-9b3b-57a74b35bf1e)
-![Screenshot 2024-04-02 175247](https://github.com/sanjayofficial2005/Sorting-Algorithms/assets/148048602/365413a0-3f4a-400c-9f10-18873c61db17)
-![Screenshot 2024-04-02 175333](https://github.com/sanjayofficial2005/Sorting-Algorithms/assets/148048602/45e1675a-56fa-419a-bb34-332f35a791a2)
-![Screenshot 2024-04-02 175340](https://github.com/sanjayofficial2005/Sorting-Algorithms/assets/148048602/971d22ef-718d-4487-8428-59d682fcbe00)
+
 
 
 ## Result:
