@@ -56,7 +56,9 @@ print(Insertionsort(arr))
 ```
 
 ## Output:
+![Screenshot (30)](https://github.com/TEJA19092005/Sorting-Algorithms/assets/164043042/c1635b71-410d-494e-a678-d3f123a20e41)
 
+![Screenshot (31)](https://github.com/TEJA19092005/Sorting-Algorithms/assets/164043042/532a5a4a-18a2-427c-97d8-aece5de36b81)
 
 
 ## Result:
